@@ -79,8 +79,7 @@ yarn serve
 ### MQTT服务器测试
 开启服务器，并点击位置移动按钮后，会在控制台上看到已连接服务器，随后可利用EMQX（之前下好的）软件测试，在EMQX中连接上服务器后，具体页面如下，在WebSocket客户端——>连接——>配置好发布数据格式（按照代码的）——>发送数据
 
-![Alt text](image-1.png)
-![Alt text](image-3.png)
+![image](https://github.com/Ruan-xianzheng/3D-Web-design/assets/106811961/857209f6-a3ab-49d1-b098-c1a2ae53f1bd)
 
 ## 代码解释
 
